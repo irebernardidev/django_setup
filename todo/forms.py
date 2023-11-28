@@ -7,4 +7,3 @@ class ItemForm(forms.ModelForm):
         model = Item
         fields = ['name', 'done']
         
-    
